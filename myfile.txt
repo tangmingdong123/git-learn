@@ -2,3 +2,4 @@ myfile
 here some thing hahah
 modify first time
 wait to commit
+add by clone
