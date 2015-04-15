@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modify by master
+=======
+by b2
+>>>>>>> b2
+add by master
